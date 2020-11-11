@@ -1,0 +1,7 @@
+# depslib dependency file v1.0
+1604114910 source:c:\users\dell\documents\bwttest\main.cpp
+	<iostream>
+	<string>
+	<algorithm>
+	<string.h>
+
